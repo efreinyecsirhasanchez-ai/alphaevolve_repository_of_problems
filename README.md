@@ -2,9 +2,9 @@
 
 This repository accompanies the manuscript
 
-> Bogdan Georgiev, Javier Gómez-Serrano, Terence Tao, Adam Zsolt Wagner -- Mathematical exploration and discovery at scale, 2025.
+> Bogdan Georgiev, Javier Gómez-Serrano, Terence Tao, Adam Zsolt Wagner -- Mathematical exploration and discovery at scale, 2025
 
-Specifically, the repository contains a webpage corresponding to each of the
+which is [available on the arXiv](https://arxiv.org/abs/2511.02864).  Specifically, the repository contains a webpage corresponding to each of the
 problems considered in the manuscript, along with multiple Google Colab
 notebooks corresponding to many (not all) of the problems. Each notebook
 contains the prompt, verification code, and initial program used to launch the
@@ -62,6 +62,10 @@ If you use the code or data in this package, please cite:
       journal={arXiv preprint arXiv:2511.02864}
 }
 ```
+
+## Additional links
+
+- "[Mathematical exploration and discovery at scale](https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/)", Terence Tao, 5 Nov 2025.
 
 ## License and disclaimer
 
