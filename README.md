@@ -1,4 +1,4 @@
-Copilot# Mathematical Problem Repository for AlphaEvolve
+      Copilot# Matematical Problem Repository for AlphaEvolve
 
 This repository accompanies the manuscript
 
